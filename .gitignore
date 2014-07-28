@@ -6,9 +6,6 @@
 #
 # Pods/
 
-NSString* s = @"Hello, world!";
-[s rockTheCasbah];
-
 // !$*UTF8*$!
 {
 	archiveVersion = 1;
